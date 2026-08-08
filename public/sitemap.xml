@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Main Website Entry Point -->
+  <url>
+    <loc>https://prince-medical.vercel.app/</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- POS Billing Counter -->
+  <url>
+    <loc>https://prince-medical.vercel.app/#pos</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Pharmacy Stock & Inventory Catalog -->
+  <url>
+    <loc>https://prince-medical.vercel.app/#inventory</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- AI Prescription OCR Scanner -->
+  <url>
+    <loc>https://prince-medical.vercel.app/#prescription</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Clinical Drug Interaction & Generic Substitutes Finder -->
+  <url>
+    <loc>https://prince-medical.vercel.app/#interactions</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Patient Directory & Monthly Refills -->
+  <url>
+    <loc>https://prince-medical.vercel.app/#patients</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Analytics & Store Sales Reports -->
+  <url>
+    <loc>https://prince-medical.vercel.app/#analytics</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

@@ -1,0 +1,6 @@
+{
+  "name": "Prince Medical Hall",
+  "description": "A comprehensive pharmacy management & point-of-sale system featuring AI prescription scanning, real-time inventory tracking, batch expiry management, customer history, and instant billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
